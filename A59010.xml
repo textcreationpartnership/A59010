@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Second remonstrance by way of address from the Church of England to both Houses of Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59010</idno>
+            <idno type="STC">Wing S2329</idno>
+            <idno type="STC">ESTC R38227</idno>
+            <idno type="EEBO-CITATION">17215419</idno>
+            <idno type="OCLC">ocm 17215419</idno>
+            <idno type="VID">106258</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59010)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106258)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1100:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Second remonstrance by way of address from the Church of England to both Houses of Parliament</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Apparently attacking the Duke of Monmouth"--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+               <term>Roundheads --  Controversial literature.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:106258:1" rendition="simple:additions"/>
+            <head>A Second REMONSTRANCE by way of ADDRESS FROM THE Church of England, to both Houſes of PARLIAMENT.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>I Hope the tender Concern of a <hi>Mother</hi> for her <hi>Childrens ſafety,</hi> and the tye of <hi>Nature</hi> for <hi>ſelf preſervation,</hi> will ſufficiently Apologize for this my <hi>Second Remonstrance:</hi> And I hope if either <hi>Piety</hi> towards my <hi>Children,</hi> or <hi>ſolicitude</hi> for <hi>my ſelf,</hi> or <hi>both,</hi> ſhould make me ſeem <hi>Importune,</hi> or, as you may think, <hi>too apprehenſive, Nature</hi> will be my <hi>Plea;</hi> which cannot <hi>hinder</hi> the one, and alſo <hi>commands</hi> the other.</p>
+            <p>Yet I cannot think my <hi>Apprehenſions</hi> Vain, nor my <hi>Importunity</hi> un<g ref="char:EOLhyphen"/>ſeaſonable, when I conſider what miſchief the <hi>Baſilisk</hi> may do if not cruſhed in the <hi>Egg;</hi> What <hi>Conflagrations</hi> have been occaſioned from neg<g ref="char:EOLhyphen"/>lected <hi>Sparks;</hi> and what <hi>Countreys</hi> and <hi>Kingdoms</hi> have been <hi>imbroyl'd</hi> and <hi>ruin'd,</hi> for not <hi>obviating</hi> ſmall <hi>beginnings.</hi>
+            </p>
+            <p>I am concern'd for <hi>You,</hi> and all my <hi>Children,</hi> and You ought alſo to be concerned with <hi>Me,</hi> both for <hi>Me</hi> and for your <hi>ſelves;</hi> I am concern'd for the <hi>King</hi> and the <hi>Kingdoms</hi> good and quiet, and You ought equally to ſhare with me in this concern: For when I ſee <hi>Rebellion</hi> begin to ap<g ref="char:EOLhyphen"/>pear <hi>bare-fac'd,</hi> and my <hi>Phanatick Enemies</hi> flock to an <hi>ungrateful aſpiring Wretch;</hi> I cannot but think, that tho' his and their cry be, The <hi>Security of the Protestant Religion,</hi> Yet it is not the <hi>Protestant Religion as by Law Eſtabliſhed;</hi> It is not <hi>Me</hi> they mean thereby, but a <hi>Religion</hi> compos'd of all <hi>Diſſenters:</hi> 'Tis not <hi>Epiſcopacy</hi> they would ſecure, but on the con<g ref="char:EOLhyphen"/>trary I fear <hi>pull down,</hi> under the Name of <hi>Popery</hi> Or rather if we look upon their <hi>Practices,</hi> tho' <hi>Religion</hi> be in their mouths, we may aſſure our ſelves it is not in their Intentions; ſeeing they deſtroy the very <hi>Foundati<g ref="char:EOLhyphen"/>ons</hi> of it by <hi>Rebellion.</hi> No no, 'tis not <hi>Religion,</hi> 'tis <hi>Ambition</hi> and Deſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> animates the <hi>unthinking Tool</hi> their <hi>Leader:</hi> 'Twas not <hi>Religion,</hi> 'twas <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hatred of <hi>Monarchy</hi> excited the <hi>Republicans</hi> to invite him in, and
+<pb n="2" facs="tcp:106258:2"/> lend him their aſſiſtance; 'tis not <hi>Religion,</hi> 'tis a delight to <hi>Fiſh</hi> in <hi>troubled Waters,</hi> and to <hi>enrich</hi> themſelves by the <hi>Spoyls</hi> of others, cauſes the <hi>Crowd</hi> to follow him: And if ſome be led by a <hi>Zeal</hi> (no leſs Criminal then blind) for <hi>Religion,</hi> they are but like their <hi>Leader, Tools</hi> in the hands of <hi>Knaves,</hi> who, ſhould they obtain their ends (which God forbid) would throw them by as uſeleſs.</p>
+            <p>When therefore I ſee <hi>Ambition</hi> graſping at a <hi>Crown;</hi> as the laſt Refuge of <hi>Deſperation:</hi> When I ſee <hi>Republican</hi> Spirits lending their aſſiſtance to pull down <hi>Monarchy:</hi> When I ſee the diſcontented hungry <hi>Rabble,</hi> flock together, in hopes once more to enrich themſelves by the Ruine both of <hi>Church</hi> and <hi>State:</hi> And when I ſee blinded <hi>Zealots</hi> cry up <hi>Religion</hi> with all the other damned crue of <hi>Rebels,</hi> whilſt they all joyn hands to pluck it down, I think I have great reaſon to <hi>fear</hi> my <hi>own</hi> and my deareſt <hi>Chil<g ref="char:EOLhyphen"/>drens</hi> Ruine, and to offer up my poor Endeavours towards our common ſecurity, from the rage of thoſe <hi>plodding Knaves,</hi> and <hi>Hood wink'd Fools.</hi>
+            </p>
+            <p>I know no <hi>thinking Perſons,</hi> who are either <hi>zealous</hi> for <hi>mine</hi> or the <hi>Kingdoms good</hi> and <hi>quiet,</hi> will ever joyn with <hi>them;</hi> For they cannot but ſee, the Methods theſe pretended <hi>Zealots</hi> take to ſecure <hi>Religion,</hi> are the only means to <hi>ruin</hi> it. We find our ſelves ſafely ſheltred under the pro<g ref="char:EOLhyphen"/>miſe of Our moſt <hi>Great</hi> and <hi>Gracious Soveraign;</hi> and we ſee and experi<g ref="char:EOLhyphen"/>ence in this as in all other things, His <hi>Conſtancy</hi> to his <hi>Promiſe:</hi> But it be<g ref="char:EOLhyphen"/>hoves us to reflect, this <hi>promiſe</hi> was <hi>Conditional,</hi> if we were true to <hi>Mo<g ref="char:EOLhyphen"/>narchy;</hi> Thoſe therefore who joyn with or abett <hi>Rebellion,</hi> againſt their <hi>Lawful Prince,</hi> have neither <hi>Right</hi> nor <hi>Title</hi> to his <hi>Promiſe,</hi> as having broken the <hi>neceſsary conditions</hi> required by it.</p>
+            <p>
+               <hi>Religion</hi> is, and always has been the common Cry of <hi>Rebels,</hi> but what <hi>Religion</hi> muſt that be, which takes its riſe and its ſecurity from <hi>Rebellion?</hi> I am ſure it cannot be <hi>Orthodox,</hi> which does ſo manifeſtly thwart the <hi>Goſ<g ref="char:EOLhyphen"/>pel,</hi> that teaches <hi>due ſubmiſſion.</hi> No no, 'tis not <hi>Religion,</hi> but <hi>Intereſt</hi> ſways ſuch <hi>Monſters,</hi> as this <hi>ungrateful Rebel;</hi> And we may aſſure our ſelves alſo, that thoſe <hi>Republicans</hi> who help to ſet up ſuch a <hi>Tool,</hi> and lead the <hi>Rabble<g ref="char:EOLhyphen"/>rout</hi> by the plauſible cry of <hi>Religion,</hi> intend no other but a <hi>Republican Re<g ref="char:EOLhyphen"/>ligion</hi> as well as <hi>Government:</hi> And then a farewel being given to <hi>Monar<g ref="char:EOLhyphen"/>chy,</hi> we muſt give a farewel alſo to <hi>Epiſcopacy,</hi> and your Mother the <hi>Church of England.</hi>
+            </p>
+            <p>Can we imagine a Perſon, who has no <hi>Religion</hi> but Debauchery, will be a ſit Inſtrument to Protect or Eſtabliſh <hi>Truth</hi> and <hi>Piety?</hi> Can we ima<g ref="char:EOLhyphen"/>gine, He, who never ſought any thing but his own <hi>private Ends,</hi> will have any generous thoughts for the <hi>Publick?</hi> Can we imagine, He who <hi>Plotted</hi> the death of a <hi>tender</hi> and a <hi>Royal Father,</hi> and prefer'd the Lives of thoſe <hi>Conſpirators,</hi> (who ſeduced him, before the ſafety of the <hi>King</hi> &amp; <hi>Kingdom,</hi>) has any ſence of <hi>Piety, Honeſty or Religion</hi> in him? Can we think, <hi>He</hi> who declares againſt all <hi>You</hi> my <hi>Children</hi> here Aſſembled as a <hi>pack'd com<g ref="char:EOLhyphen"/>pany of Papiſts,</hi> becauſe you have ſhown your ſelves <hi>true</hi> and <hi>Loyal</hi> Sub<g ref="char:EOLhyphen"/>jects to your <hi>King,</hi> and <hi>Zealous</hi> for the Welfare and Honour of the <hi>Na<g ref="char:EOLhyphen"/>tion,</hi> can intend any thing but <hi>Your</hi> and <hi>My</hi> Deſtruction, with the <hi>King<g ref="char:EOLhyphen"/>doms</hi> Ruine? In a word, can we imagine <hi>He</hi> who is a <hi>monſter</hi> of <hi>Ingratitude,</hi> of <hi>Impiety,</hi> of <hi>Debauchery,</hi> and of all the ills imaginable, (as appears by This, and all his late attempts) carries any thing but the <hi>Seeds</hi> of theſe <hi>Crimes</hi>
+               <pb n="3" facs="tcp:106258:2"/> under the goodly Husks of <hi>Liberty, Property,</hi> and <hi>Religion?</hi> Or can we imagine <hi>thoſe,</hi> who abet ſuch <hi>Villanies,</hi> have either better or more <hi>Religious De<g ref="char:EOLhyphen"/>ſigns,</hi> though they Cloak them under that moſt ſpecious appearance? It is not an Age ſince we ſufficiently experienc'd the effects of <hi>Rebellion.</hi> That <hi>Tree,</hi> though it may for ſome time ſpread and flouriſh, yet the <hi>Fruits</hi> there<g ref="char:EOLhyphen"/>of are always <hi>bitter:</hi> It may promiſe much in the <hi>Bloſſom,</hi> but the <hi>Fruit,</hi> (tho' fair in appearance,) is poyſonous in the effect.</p>
+            <p>It behoves You therefore <hi>(my deareſt Children,)</hi> to endeavour by all means to defend His <hi>Sacred Majeſty</hi> againſt his <hi>Enemies,</hi> upon whom the future <hi>quiet</hi> and <hi>Glory</hi> of the <hi>Nation</hi> does depend. It behoves You to de<g ref="char:EOLhyphen"/>fend <hi>Him,</hi> upon whom depends <hi>my Peace,</hi> and <hi>my ſupport.</hi> It behoves You to defend <hi>Him,</hi> upon whoſe <hi>Security Your</hi> own <hi>Lives</hi> and <hi>Fortunes</hi> do de<g ref="char:EOLhyphen"/>pend, and to obviate all thoſe Evils which make haſt (to <hi>ripen</hi> if they be not <hi>nipp'd</hi>) in the <hi>Bud.</hi> This it behoves you to do, if you love your <hi>King</hi> if you love your <hi>Countrey,</hi> if you love <hi>Me,</hi> or if you love your <hi>ſelves:</hi> And when ſo many Motives excite you to reſiſt thoſe <hi>Rebels,</hi> and to quell them to ſecure our quiet, methinks nothing that is conducing thereunto, but may be <hi>ſeaſonably</hi> repreſented to you.</p>
+            <p>My own thoughts I told you in my laſt <hi>Remonſtrance,</hi> which I muſt here again repeat. The only way and moſt ſecure is without doubt to procure a <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> with thoſe who are undoubtedly the <hi>King</hi> and <hi>Kingdoms</hi> Friends, and whoſe <hi>Intereſt</hi> as well as <hi>Principles</hi> oblige them to be Faithful to <hi>Him.</hi> We ought to ſecure all the Friends we can, and not exclude thoſe, who are both <hi>able</hi> and <hi>willing</hi> to aſſiſt us, by <hi>Oaths</hi> and <hi>Teſts,</hi> which are ſo far from aſſuring us of their <hi>Fidelity,</hi> that we cannot firmly relie upon their <hi>Allegiance</hi> who take them. The <hi>Romanists</hi> have often offer'd to ſwear <hi>Allegiance</hi> to their <hi>King</hi> in any form, ſo it thwart not what is due to <hi>God,</hi> and as we may aſſure our ſelves, that they, who break their <hi>Allegiance</hi> due to <hi>God,</hi> under pretence of ſerving their <hi>King,</hi> are led by nothing but their <hi>Interest,</hi> which would byaſs them to any thing: So thoſe who are known to be faithful to their <hi>God,</hi> and prefer their <hi>Religion</hi> and <hi>Conſcience</hi> before their <hi>Intereſt,</hi> will, no doubt make a <hi>Conſcience</hi> likewiſe to ſerve their <hi>King</hi> and <hi>Countrey,</hi> when the ſame <hi>God</hi> and <hi>Religion</hi> obliges them to do it.</p>
+            <p>Our former <hi>Chriſtian Kings</hi> were for many. Ages ſecure even under the <hi>Roman Religion,</hi> when their Subjects were ty'd by <hi>Oaths,</hi> no leſs obli<g ref="char:EOLhyphen"/>ging 'tis true then theſe, but couched in other Terms. Other <hi>Kings</hi> and <hi>Kingdoms</hi> think themſelves no leſs ſecur'd than We when ſuch an <hi>Allegiance</hi> is ſworn unto them. And ſhall We alone endeavour to <hi>Fetter</hi> the <hi>Conſciences</hi> of thoſe who make a <hi>Conſcience</hi> to ſerve their <hi>King</hi> and <hi>Countrey,</hi> tho' ty'd by no other Bonds than the true <hi>Principles</hi> of <hi>Religion</hi> and ſound <hi>Morality?</hi> We know 'tis not <hi>Allegiance</hi> they boggle at, for That they are always rea<g ref="char:EOLhyphen"/>dy to pay with the hazard of their <hi>Lives</hi> and <hi>Fortunes,</hi> but 'tis their <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> they would not abandon, their <hi>Faith,</hi> they would not quit, their <hi>God,</hi> to whom they would not be Rebellious. Shall we therefore, when we know they are Perſons will be faithful to a <hi>King,</hi> who has promiſed Us His <hi>Protection,</hi> and under whoſe <hi>Protection</hi> alone we can ever hope to <hi>ſub<g ref="char:EOLhyphen"/>ſiſt,</hi> ſhall We I ſay, refuſe their <hi>aſſiſtance</hi> in theſe <hi>conjunctures?</hi> We know many of the <hi>Romanists</hi> have ſhewn their <hi>Valour</hi> and their <hi>Conduct</hi> in For<g ref="char:EOLhyphen"/>reign Countreys, where they learnt <hi>Military Diſcipline</hi> by <hi>Practice</hi> and not by <hi>ſpeculation</hi> only: And ſhall We, when we know them to be fit Per<g ref="char:EOLhyphen"/>ſons
+<pb n="4" facs="tcp:106258:3"/> to be Imploy'd, ſo far <hi>injure</hi> our <hi>ſelves</hi> and the <hi>Nation,</hi> as to exclude them from aſſiſting us for <hi>Niceties</hi> in <hi>Religion?</hi> We cannot doubt of their <hi>Fidelity</hi> to their own <hi>King,</hi> who ſought ſo faithfully for Forr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igners; we cannot doubt their <hi>Courage,</hi> who ſhew'd their <hi>Valour</hi> in the greateſt haz<g ref="char:EOLhyphen"/>zards: and we may hope their <hi>Conduct</hi> will be no leſs advantagious, ha<g ref="char:EOLhyphen"/>ving learnt it in ſo great a School. Thoſe no doubt who are either for His <hi>Majeſties</hi> ſecurity, for my <hi>ſafety,</hi> or the <hi>Kingdoms</hi> good, will be deſirous to ſee them imploy'd. None certainly but thoſe who care not if they ſaw me again <hi>pull'd down,</hi> and the <hi>Kingdom</hi> turn'd into a <hi>Common-wealth,</hi> can be againſt it? Both <hi>They,</hi> and <hi>I,</hi> and <hi>all thoſe</hi> who are for <hi>Monarchy,</hi> are con<g ref="char:EOLhyphen"/>cern'd in the preſervation of His <hi>Sacred Majeſty,</hi> and where our <hi>concern</hi> is common, why ſhould we not be at perfect <hi>
+                  <g ref="char:V">Ʋ</g>nion?</hi>
+            </p>
+            <p>
+               <hi>My Lords and Gentlemen,</hi>
+               <lb/> It depends wholly upon your <hi>generous Action</hi> to ſee this great thing ef<g ref="char:EOLhyphen"/>fected. We ſee His <hi>Majeſty</hi> is not willing to <hi>infringe</hi> the <hi>Laws,</hi> nor alter any thing without your <hi>Council,</hi> nor give occaſion to the <hi>diſcontented</hi> to eſteem him <hi>Arbitrary:</hi> But <hi>You</hi> methinks ſhould <hi>prevent</hi> him in <hi>this,</hi> and before you break up this <hi>Aſſembly;</hi> freely deſire him to imploy any that are known to be his <hi>Friends.</hi> If you be afraid of Perſons who are nor <hi>tyed</hi> by <hi>Oaths,</hi> either take thoſe <hi>old Ones</hi> which ſecur'd His <hi>Predeceſſors,</hi> or frame <hi>new Ones</hi> with all the <hi>tyes</hi> imaginable to <hi>Fidelity,</hi> ſo they touch not upon <hi>Religion.</hi> Then will you ſhow your ſelves true <hi>Subjects</hi> to your <hi>King,</hi> truly concern'd for <hi>me,</hi> Your tender <hi>Mother,</hi> who run the ſame <hi>Fate</hi> with <hi>Him;</hi> true <hi>Friends</hi> to <hi>Monarchy,</hi> and may therefore expect His <hi>Majesties pro<g ref="char:EOLhyphen"/>tection</hi> under <hi>Gods.</hi> I hope you will be <hi>
+                  <g ref="char:V">Ʋ</g>nanimous</hi> in this <hi>ſtep</hi> to our <hi>
+                  <g ref="char:V">Ʋ</g>nity, Peace,</hi> and <hi>Security,</hi> which I ſhall perpetually <hi>pray</hi> for in giving you My <hi>Bleſſing.</hi>
+            </p>
+            <closer>God ſave King <hi>JAMES</hi> the Second.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
